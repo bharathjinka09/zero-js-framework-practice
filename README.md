@@ -1,1 +1,10 @@
-## This is zero framework
+# This is zero framework
+
+## Instructions
+
+```
+npm install
+
+zero
+
+```
